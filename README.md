@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
-<h3 align="center">Working as web developer and doing game dev in my free time</h3>
+<h3 align="center">Working as full stack developer and doing game dev in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misterquestions&label=Profile%20views&color=0e75b6&style=flat" alt="misterquestions" /> </p>
 
