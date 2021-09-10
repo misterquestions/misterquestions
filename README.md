@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/misterquestionx" target="blank"><img src="https://img.shields.io/twitter/follow/misterquestionx?logo=twitter&style=for-the-badge" alt="misterquestionx" /></a> </p>
 
-- 🔭 I’m currently working on [iVoy](https://ivoy.mx/)
+- 🔭 I’m currently working at [Luxoft](https://www.luxoft.com/)
 
-- 🌱 I’m currently learning **Invision Community, Golang,**
+- 🌱 I’m currently learning **design patterns and devops**
 
 - 🤝 I’m looking for help with [Auroners Network](https://auroners.net/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/misterquestions?tab=repositories&q=&type=public&language=](https://github.com/misterquestions?tab=repositories&q=&type=public&language=)
 
-- 💬 Ask me about **react, vue, nestjs, nextjs, nuxt, netframework, bukkit, multitheftauto**
+- 💬 Ask me about **react, vue, nestjs, nextjs, nuxt, netframework, bukkit/spigot, fivem**
 
 - 📫 How to reach me **misterquestions.mx@gmail.com**
 
