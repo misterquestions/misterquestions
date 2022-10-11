@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
-<h3 align="center">Working as full stack developer and doing game dev in my free time</h3>
+<h3 align="center">Working as senior software engineer and doing game dev in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misterquestions&label=Profile%20views&color=0e75b6&style=flat" alt="misterquestions" /> </p>
 
 <p align="left"> <a href="https://twitter.com/misterquestionx" target="blank"><img src="https://img.shields.io/twitter/follow/misterquestionx?logo=twitter&style=for-the-badge" alt="misterquestionx" /></a> </p>
 
-- 🔭 I’m currently working at [Luxoft](https://www.luxoft.com/)
+- 🌱 I’m currently learning **data science and machine learning**
 
-- 🌱 I’m currently learning **design patterns and devops**
-
-- 🤝 I’m looking for help with [Auroners Network](https://auroners.net/)
+- 🤝 I’m looking for help with [Layux](https://layux.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/misterquestions?tab=repositories&q=&type=public&language=](https://github.com/misterquestions?tab=repositories&q=&type=public&language=)
 
-- 💬 Ask me about **react, vue, nestjs, nextjs, nuxt, netframework, bukkit/spigot, fivem**
+- 💬 Ask me about **react/gatsby/nextjs, node.js, lua, python, kotlin, netframework, bukkit/spigot, fivem**
 
-- 📫 How to reach me **misterquestions.mx@gmail.com**
+- 📫 How to reach me **fernandomlopez.mx@gmail.com**
 
 - ⚡ Fun fact **I started on programming since I was 12 years old**
 
