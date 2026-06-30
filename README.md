@@ -1,8 +1,7 @@
 # 💫 About Me:
 🤓 I've started with game development when I was 12 years old<br>
 📍 Currently I'm a Senior Software Engineer
-🌱 I'm currently learning about data science and machine learning<br>
-🔭 I'm currently working on a self-made RTS game<br>
+🌱 I'm currently learning about 3d graphics and c++<br>
 💡 I'm Looking to collaborate on game-related projects<br>
 💬 Ask me about any of the tools you see on my profile or my organizations profiles.<br>
 ⚡️ Most of my public job is available on my organizations<br>
